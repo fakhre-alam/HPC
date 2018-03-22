@@ -1,6 +1,6 @@
-# HPC
-Assignment Question 
-                                             HPC Post Assignment
+# HPC( High Performance Computing )
+## Assignment Question 
+                                           #  HPC Post Assignment
 
 Q 1. OpenMP  Program for Get Environment Information - C/C++ Version The master thread queries and prints selected environment information. (Number of processors, Number of threads, Dynamic threads enabled? , Nested parallelism enabled?  )
 
